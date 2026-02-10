@@ -1,76 +1,29 @@
-# connorbell133
-# Welcome
-
-<div style={{ padding: '20px', backgroundColor: 'lightgrey' }}>
-  This is a **Markdown** paragraph inside a <div>.
+<div align="center">
+  <h1>Connor Bell</h1>
+  <h3>Forward Deployed AI Engineer @ Optura.AI</h3>
+  <p><i>Specializing in Agentic Systems, RAG, and Context Engineering.</i></p>
 </div>
 
 ---
 
-## Markdown basics
+### 🔭 Current Focus
+I specialize in **Agentic Design Patterns**. I don't just prompt models; I build the state machines, memory persistence, and evaluations that make them reliable in enterprise environments.
 
-**Bold**, *italic*, ~~strikethrough~~, `inline code`, and a [link](https://example.com).
 
-- Unordered list item 1
-- Unordered list item 2
 
-1. Ordered list item 1
-2. Ordered list item 2
+### 🚀 Featured Open Source
 
-> Blockquote: MDX combines Markdown with JSX.
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **AgentFlow** | **AI Distribution Infra.** Solves auth, multi-tenancy, and access control for internal agents. | `TypeScript` `Next.js` `Postgres` |
+| **AsyncAgents** | **UX Architecture.** A pattern for decoupling tool execution from chat UI to prevent blocking. | `React` `AI SDK` `Redis` |
 
----
+### 📝 Latest Writing
+* **Medium:** [The Hidden Bottleneck in AI Agents](link)
+* **LinkedIn:** [Why "Chat" isn't the final form of AI](link)
 
-## HTML elements
+### 💻 Tech & Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-<details>
-<summary>Click to expand (details/summary)</summary>
-Hidden content inside a `<details>` element.
-</details>
-
-<table>
-  <thead>
-    <tr><th>Col A</th><th>Col B</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Cell 1</td><td>Cell 2</td></tr>
-    <tr><td>Cell 3</td><td>Cell 4</td></tr>
-  </tbody>
-</table>
-
-<p>Plain <strong>HTML</strong> paragraph with <em>nested</em> tags and <code>code</code>.</p>
-
-<span style="color: blue;">Colored span</span> and <kbd>keyboard</kbd> text.
-
----
-
-## MDX / JSX
-
-Inline expression: {2 + 2} is 4.
-
-<div className="callout">
-  JSX with **Markdown** inside and expression: {"hello".toUpperCase()}.
-</div>
-
-<div style={{ padding: 16, border: '1px solid #ccc', borderRadius: 8 }}>
-  Inline style object: padding and border.
-</div>
-
-<ul>
-  <li>List from HTML</li>
-  <li>Another item</li>
-</ul>
-
----
-
-## Code blocks
-
-```js
-const greet = (name) => `Hello, ${name}!`;
-greet('MDX');
-```
-
-```html
-<!-- Raw HTML in fenced block -->
-<p>Fenced code block</p>
-```
+[Get in touch via LinkedIn](https://www.linkedin.com/in/connorbell13)
