@@ -11,7 +11,7 @@ I specialize in **Agentic Design Patterns**. I don't just prompt models; I build
 
 
 
-### 🚀 Featured Open Source
+### 🚀 Recent Work
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
