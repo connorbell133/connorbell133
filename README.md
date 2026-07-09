@@ -1,3 +1,51 @@
+```text
+
+
+                        -~;,.](x)[[[~;.
+                        +|vkC%WK8%%@LOmz{~
+                   ,|jzdU8B$@B@@@B%%%XUHYOpf}!
+                ;xpmY%8@@WW&%@B%BBBBB@@@%LpKKL}-
+            ; ;h&$B%$B$@@@@B8&K%$$$%K%%@$@WXH0Omz[~,
+           -*xJ$$B&@$@$$$$$$$$@$@$$$@@@%&W%@%KWYk(wu|-
+        ;~.!m@@@$$$$$$B@$$B$$$$$$$$$$$$$8H%BB%@BHCJb]f{
+       ,xz=X$$$$@888XULZ0ZkpOLLH8$$$$$$$@%%BB%%%KHJhtzt[!
+       .]KK$$@$8LmbhwuuzzzzuzuzuaqQJUXYUQQUJYWKUH%YLpffkh;
+       ]a8$$@@BOkawwnnnuuzzzczzzzcccvczuzvzuhmCUY88WJkan0z
+        ]W@&&$XkhawnnnnnuzzzzzzzzuunuuuzzzzuuznhhkZH%Hhdkt
+        n$$8%@LwaaawwnnnwnwnnnuuuunnnnuuuuuuuuzzzvzOK@Q}h[
+        }@$$$BOwhwwwwnunnuuuuuuuzzzuuuuuzzzzzuzzzccmCLLkqf
+ttxt((([x$$$$&maawnwwawwnnzzcvfvvvjvcvvvunwhaanzzcchQ0wnq{;;-;;;;;-;;---
+)))(((t)|b$$$UhhhpCXXK&&KHYZhvfvccckq0JYXHHJCQObz}jjuY@wnx*[]]]]]]]]][[]
+m{!+~:.,..Q$%dupXY0mpkbdq0LLOhuuuuhpZZZqpbhakdZYOj))=vKOh]
+HJkx}~*-  t$Hna0LppmO0QQZdbdQ0hnnukpbhmmCXYCOZdbdbvf))Ckh+
+kwwvucnv- )$CukwwdQL0QJCZdphmQkwawpphhZpqmZpdZmbwzzzf}Zknz|
+:::;::: ]OY$mhhwwkkkkhahhkdmOphahakddbkkhhhahaahawwnv|khz0Jj
+|||||!!:a%HKmdaaawwhhkkkkbddpdbbkkbkhkkaahhhhhhhaahw|+tZwbUn      ......
+|!||!!*~|KZkCphkaucccczzuhpqpbkahkwkdkauunuzuunaaakp|= cbhU(     ......,
+|!!!!!!=;ZJdUmkdhuzzjxzahZmbmZhcaqmbappahnvjvzunnwhb|);wmmZ:        ....
+!!*****=:]UqQ0ppkawwwbpdbdZ0LC0ZZmO0qdhwhbpawwwaawwu!)+hwp{          ...
+||||||!!+=QqLLppdbkbbdddppqppbkhkkkbbbdbkwhdkkhhaazz!*xddh,           .
+|||||!!!!=tabLZpdkuukmZ0CCLZmZqppkbdqqqpdqdhwnwhahaz]!fuz*          ....
+||!!!!!!**=~.aJpdhzvunbU8WJuuux}u]ftfcZUHZkazcwbaaka(+              ....
+|||!!!!!****-!XOdkwuvuwukOQZQQZpZZZOQZ0pwunzvuhknwbat.                 .
+|!!!!!*******:vHmpbhwahhhhkkhhawnunnnnwwwaaawhhawkda* ..          ......
+|!!!!!*******=,zKQmmdbbpbkkkkbbbkkhawwahhhkbkddbpmav+|              ....
+|!|||||!!!!***+:)JJZZmmZqppddpddddddbkkdddpppppmmhhu+Lv        ........,
+!!!!!!!!!!!*!**=,=&KJLQ0ZmmqpkwnwwwakdpppqZOO0Q0qmqp=k$p+       ....,,,,
+*!*****!!!!!!!!*=;JKKHUYULQOmdwwaawabmOOQLCJJLOZZZmp)0$$&v.   ....,,,,,:
+|!***!|!!**!!!*=; dXCYXW8WHHYYJJJJCUUXHXXHXXQqpqqqpnZ$$$$$Zf{~..,::;;:::
+|!!!***===*+-:;|xhU0QJCJXW8%88&KWWWWWWWHXJQqpbdddkwd@$$$$$$%$8Cu|:..  .,
+][]]]|!!*~:-{hU@$$%qOQLCJYXXXHHXXXXXYUJQ0ZpddddddhkB$$$$$$$$$$$$$Xmnf{=,
+++~~-;::!tbK$$$$&@$Cq0Q0QCYUJJCCLLQ000OZZdkbkbddkdJ$$$$$$$$$$$$$$$$@WXYX
++=**])hJ%$$$$$$@$$$BQOOOZO0Q0Omqppppdbbbkhhhhkkkkm%$$$$$$$$$$$$$$$$$$$@@
+q0UKB$$$$$$$$$$$$$$$%JQOmmZZZmqbaahhhahhhhhhhkhhp&$$$$$$$$$$$$$$$$$$$$$$
+B@$$$$$$$$$$$$$$$$$$%XYJZZZZZmmqppdbkhaahhhhhwk0%$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$KUXJQOZZmmqqqpddbkkkhwnpU%$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$ULYYCZZZmmqqppddddhwqH$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$UOJJOqpqqppddddbahY$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$CZZmdwhkkbbbdhwm8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+```
+
 <div align="center">
   <h1>Connor Bell</h1>
   <h3>Forward Deployed AI Engineer @ Optura.AI</h3>
