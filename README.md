@@ -1,32 +1,34 @@
 ```text
-                                                      connor@bell133 ──────────────────────────────────
-                                                       OS: ............................... macOS, Linux
-                    |k%%%%%k.                          Uptime: ................ 4 yrs, 10 mos on GitHub
-                |k%@@@@@@%%%k%k;                       Host: ................................ Optura.AI
-            |k%@@%%%%%%%@@%%@@@%k%k                    Role: ............. Forward Deployed AI Engineer
-          k%%@%@@@@@@%%@@@@%%%%%%%%kk                  IDE: ...................... Claude Code, VS Code
-        k%%@@@@@@@@@@@@@@@@@@@%k%@%@%kkk
-      ;k%%%%%%kkkk||kkk%@@@@@@@%%%%%%%kk               Languages.Programming: ...... TypeScript, Python
-     |kk%%|;.           .|kkkk||kkk%k%@kk              Languages.Computer: ............ SQL, JSON, YAML
-     kk%%|  . .                    |kkk%%k |           Languages.Real: ........................ English
-     kk%k  ......         ..           |%@|
-    ;k%@k ....  .. ...                 .k%k            Specialty.Systems: ..... Agentic Design Patterns
-    |%%%| ..  ..                ...     kk;|           Specialty.Craft: ...... RAG, Context Engineering
-     k@%. ;kkk%%%%%k.     ;kkkk%kkkk|    k@.           Specialty.Belief: ................ evals > vibes
-      %| |%k|.. .||kk;   .|||||;..;|kk    %k
-      %. |||kkk%%||.kk. .||.|kk%%kkk;.    k.          Contact ─────────────────────────────────────────
-      k .  ||;;;..||k|. .|||;;. . .;;  .  | .          Email.Personal: ...... connor.m.bell13@gmail.com
-    .kk ....;;;;;|||||;;;;;|;..;;;|;..;;   | k         LinkedIn: ......................... connorbell13
-      .|...       |||;. ;.;|;       ..;|    .;         GitHub: .......................... connorbell133
-      .|;;.     .|k|kk;.|||;|...      .|   ;|
-       ;;;;..;|||;|kkk||||||;..;|;..;;..   .          GitHub Stats ────────────────────────────────────
-       ...;..;||||||||;;;.|||||;;;..;.;                Repos: .......................... 20 | Stars: 17
-        .     .|%@%|.;      .kkk|   ;.;;               Commits: .................. 2,263 | Followers: 3
-                 |k|kk;||||k|k;.   .; .|
-               .. ;;;;..  . .  .....  .
-               .|..;||||||;..;;;;;;...
-                ...;;;..;.||;;;;;;.
-                            ....
+                                                        connor@bell133 ──────────────────────────────────
+                                                         OS: ............................... macOS, Linux
+                     k%%%%%%k;                           Uptime: ................ 4 yrs, 10 mos on GitHub
+                .k%%@@@@@@@@@%%%k.                       Host: ................................ Optura.AI
+            .k%@@@%%%@@%@@@@@@@@%%%%.                    Role: ............. Forward Deployed AI Engineer
+          k%%@@@@@@@@@%%@@@@%@@@@@%%%%k                  IDE: ...................... Claude Code, VS Code
+        |%@@@@@@@@@@@@@@@@@@@@@%%@@@@@%|%;
+       %%@@@@@@%%%%%%%%@@@@@@@@@@@@@@@@%%; .             Languages.Programming: ...... TypeScript, Python
+     .%%%@%kk|;;;......;|%%%%%%%%%%%%%%@%%|..            Languages.Computer: ............ SQL, JSON, YAML
+    .k%%%%|;;;;;;;;....;...........|%%%%@%%|;k           Languages.Real: ........................ English
+     %%%@k;;||;;;;;;;;;;;;;;;;;;;;;;.;;;k%@%||
+    ;%%@%|;||||;||||||;;;;;;;;;;;;;;;.;..%@@;.           Specialty.Systems: ..... Agentic Design Patterns
+    ;%%@%;;|;;;;.;...;;..;........;.;;;..k%kk%           Specialty.Craft: ...... RAG, Context Engineering
+    ;%@@%;;|k%%%%%%k|......;|kkk%%%%k|; ..%@k;.          Specialty.Belief: ................ evals > vibes
+      @%;;%%%%%%%%%%%k;;.;|k%%%%%kkkk%%    %@k
+      %%.k%%kkkkkk||k%k;;;kkk|kk%%%kkkkk.. ;%;          Contact ─────────────────────────────────────────
+      %k.;;k%%%%%%kk|%%;;|kk;kkkk%kkkk|;;;..%.           Email.Personal: ...... connor.m.bell13@gmail.com
+     k%||;;|kk||||kkkkk||||kkk|||||||||||;  k.k|         LinkedIn: ......................... connorbell13
+    |kk||||;;;|||||kkkkkkkkkk|||||||||||k|   ||k         GitHub: .......................... connorbell133
+    ...k|||;......kkkk|;.|||kk;;;...;;||kk   k|.
+     .;kkk|;;;.|k|kkk%%kkk%%kk||k;..;;|;||   k|         GitHub Stats ────────────────────────────────────
+      .|||k||kkkkkkkkkkkkkkkkkk||kkk|kk|;.  ;|           Repos: .......................... 20 | Stars: 17
+       .||||;;kk%%%%kkkkkkkkkkkkkk|;;||||.               Commits: .................. 2,263 | Followers: 3
+        .;;;..;;%@@%;.; . ...;%%%k;.;k||k|
+         ;.....;;;k%%%%kk%%%%kk;;|..||;;k.
+          ....;;||||||||;..;;;;;||||||;||
+            ...;|k||kkkkkkkk||kk|kkk|;|;
+               ..;|||k|;|||kkkkkkkk|;;.
+                 ...... .....||||;;..
+                      ...........
 ```
 
 <div align="center">
