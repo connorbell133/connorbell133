@@ -1,34 +1,9 @@
-```text
-                                                        connor@bell133 ──────────────────────────────────
-                     k%%%%%%k;                           OS: ............................... macOS, Linux
-                .k%%@@@@@@@@@%%%k.                       Uptime: ................ 4 yrs, 10 mos on GitHub
-            .k%@@@%%%@@%@@@@@@@@%%%%.                    Host: ................................ Optura.AI
-          k%%@@@@@@@@@%%@@@@%@@@@@%%%%k                  Role: ............. Forward Deployed AI Engineer
-        |%@@@@@@@@@@@@@@@@@@@@@%%@@@@@%|%;               IDE: ...................... Claude Code, VS Code
-       %%@@@@@@%%%%%%%%@@@@@@@@@@@@@@@@%%;
-     .%%%@%kk|;;;......;|%%%%%%%%%%%%%%@%%|.             Languages.Programming: ...... TypeScript, Python
-    .k%%%%|;;..            ....;;;|%%%%@%%|;             Languages.Computer: ............ SQL, JSON, YAML
-     %%%@k;.                      ..;;k%@%||             Languages.Real: ........................ English
-    ;%%@%|;.                        ..;%@@%;
-    ;%%@%;.                          .;k%@%k             Specialty.Systems: ..... Agentic Design Patterns
-    ;%@@%;.|k%%%%%%k|.      .|k%%%%%%k|.;%@k;            Specialty.Craft: ...... RAG, Context Engineering
-     .@%;;%%%%%%%%%%%k.    .k%%%%%%%%%%k  %@k.           Specialty.Belief: ................ evals > vibes
-      %%.;k|;;.;;;;|k|;    ;k|;;.;;;;|k|.  ;%k;
-      %k.;;| ;k@@k; ||;    ;|| ;k@@k; |;;.  |%k;        Contact ─────────────────────────────────────────
-     k%||;;.;;|||;;..        .;;|||;;..;|.  ;kk|         Email.Personal: ...... connor.m.bell13@gmail.com
-    |kk||||;.          .;|;.          ;|;.   ;k||        LinkedIn: ......................... connorbell13
-    .kk||||;..        .;|k|;.         ;;.    ;k||        GitHub: .......................... connorbell133
-     .kkk|;;;.        ;k||;k|;       .;;.   .|k|;
-      .|kk||;.       ;k@|;;|@k;      ;|;.  .;kk|.       GitHub Stats ────────────────────────────────────
-       .||k|;;. .;|;..;;;;;;;;..;|;. ;;|. .;|k|;         Repos: .......................... 20 | Stars: 17
-        .;|k|;.;k%kkkkkkkkkkkkkk%k;. .;|;.;|k|;.         Commits: .................. 2,263 | Followers: 3
-         .;|k|;%k|.|.|.|.|.|.|.|k%;.  .;|kk|;.
-          .;|kk;k%kkkkkkkkkkkkkk%k;;.;|kk|;.
-            .;;|;;;||||||||||;;;;;;;||;;.
-              ..;;|kkkkkkkkkk|;;;..
-                .;;;||||||||;;;.
-                   ......;;.....
-```
+<a href="https://github.com/connorbell133/connorbell133">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/connorbell133/connorbell133/main/dark_mode.svg">
+    <img alt="Connor Bell's GitHub Profile README" src="https://raw.githubusercontent.com/connorbell133/connorbell133/main/light_mode.svg">
+  </picture>
+</a>
 
 <div align="center">
   <h1>Connor Bell</h1>

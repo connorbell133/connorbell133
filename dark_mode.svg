@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="1005px" height="595px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1005px" height="595px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">                     k%%%%%%k;</tspan>
+<tspan x="15" y="50">                .k%%@@@@@@@@@%%%k.</tspan>
+<tspan x="15" y="70">            .k%@@@%%%@@%@@@@@@@@%%%%.</tspan>
+<tspan x="15" y="90">          k%%@@@@@@@@@%%@@@@%@@@@@%%%%k</tspan>
+<tspan x="15" y="110">        |%@@@@@@@@@@@@@@@@@@@@@%%@@@@@%|%;</tspan>
+<tspan x="15" y="130">       %%@@@@@@%%%%%%%%@@@@@@@@@@@@@@@@%%;</tspan>
+<tspan x="15" y="150">     .%%%@%kk|;;;......;|%%%%%%%%%%%%%%@%%|.</tspan>
+<tspan x="15" y="170">    .k%%%%|;;..            ....;;;|%%%%@%%|;</tspan>
+<tspan x="15" y="190">     %%%@k;.                      ..;;k%@%||</tspan>
+<tspan x="15" y="210">    ;%%@%|;.                        ..;%@@%;</tspan>
+<tspan x="15" y="230">    ;%%@%;.                          .;k%@%k</tspan>
+<tspan x="15" y="250">    ;%@@%;.|k%%%%%%k|.      .|k%%%%%%k|.;%@k;</tspan>
+<tspan x="15" y="270">     .@%;;%%%%%%%%%%%k.    .k%%%%%%%%%%k  %@k.</tspan>
+<tspan x="15" y="290">      %%.;k|;;.;;;;|k|;    ;k|;;.;;;;|k|.  ;%k;</tspan>
+<tspan x="15" y="310">      %k.;;| ;k@@k; ||;    ;|| ;k@@k; |;;.  |%k;</tspan>
+<tspan x="15" y="330">     k%||;;.;;|||;;..        .;;|||;;..;|.  ;kk|</tspan>
+<tspan x="15" y="350">    |kk||||;.          .;|;.          ;|;.   ;k||</tspan>
+<tspan x="15" y="370">    .kk||||;..        .;|k|;.         ;;.    ;k||</tspan>
+<tspan x="15" y="390">     .kkk|;;;.        ;k||;k|;       .;;.   .|k|;</tspan>
+<tspan x="15" y="410">      .|kk||;.       ;k@|;;|@k;      ;|;.  .;kk|.</tspan>
+<tspan x="15" y="430">       .||k|;;. .;|;..;;;;;;;;..;|;. ;;|. .;|k|;</tspan>
+<tspan x="15" y="450">        .;|k|;.;k%kkkkkkkkkkkkkk%k;. .;|;.;|k|;.</tspan>
+<tspan x="15" y="470">         .;|k|;%k|.|.|.|.|.|.|.|k%;.  .;|kk|;.</tspan>
+<tspan x="15" y="490">          .;|kk;k%kkkkkkkkkkkkkk%k;;.;|kk|;.</tspan>
+<tspan x="15" y="510">            .;;|;;;||||||||||;;;;;;;||;;.</tspan>
+<tspan x="15" y="530">              ..;;|kkkkkkkkkk|;;;..</tspan>
+<tspan x="15" y="550">                .;;;||||||||;;;.</tspan>
+<tspan x="15" y="570">                   ......;;.....</tspan>
+</text>
+<text x="470" y="30" fill="#c9d1d9">
+<tspan x="470" y="30">connor@bell133 —————————————————————————————————————————</tspan>
+<tspan x="470" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">macOS, Linux</tspan></tspan>
+<tspan x="470" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">4 years, 10 months on GitHub</tspan></tspan>
+<tspan x="470" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Optura.AI</tspan></tspan>
+<tspan x="470" y="110"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Forward Deployed AI Engineer</tspan></tspan>
+<tspan x="470" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Claude Code, VS Code</tspan></tspan>
+<tspan x="470" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">TypeScript, Python</tspan></tspan>
+<tspan x="470" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">SQL, JSON, YAML</tspan></tspan>
+<tspan x="470" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">English</tspan></tspan>
+<tspan x="470" y="250"><tspan class="cc">. </tspan><tspan class="key">Specialty</tspan>.<tspan class="key">Systems</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Agentic Design Patterns</tspan></tspan>
+<tspan x="470" y="270"><tspan class="cc">. </tspan><tspan class="key">Specialty</tspan>.<tspan class="key">Craft</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">RAG, Context Engineering</tspan></tspan>
+<tspan x="470" y="290"><tspan class="cc">. </tspan><tspan class="key">Specialty</tspan>.<tspan class="key">Belief</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">evals &gt; vibes</tspan></tspan>
+<tspan x="470" y="330">- Contact ——————————————————————————————————————————————</tspan>
+<tspan x="470" y="350"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">connor.m.bell13@gmail.com</tspan></tspan>
+<tspan x="470" y="370"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">connorbell13</tspan></tspan>
+<tspan x="470" y="390"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">connorbell133</tspan></tspan>
+<tspan x="470" y="430">- GitHub Stats —————————————————————————————————————————</tspan>
+<tspan x="470" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">20</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">17</tspan></tspan>
+<tspan x="470" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">2,263</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">3</tspan></tspan>
+</text>
+</svg>
