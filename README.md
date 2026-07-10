@@ -1,10 +1,3 @@
-<a href="https://github.com/connorbell133/connorbell133">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/connorbell133/connorbell133/main/dark_mode.svg">
-    <img alt="Connor Bell's GitHub Profile README" src="https://raw.githubusercontent.com/connorbell133/connorbell133/main/light_mode.svg">
-  </picture>
-</a>
-
 <div align="center">
   <h1>Connor Bell</h1>
   <h3>Forward Deployed AI Engineer @ Optura.AI</h3>
