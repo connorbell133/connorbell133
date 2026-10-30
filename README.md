@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Connor Bell</h1>
-  <h3>Forward Deployed AI Engineer @ Optura.AI</h3>
+  <h3>Senior Platform Engineer @ Optura.AI</h3>
   <p><i>Specializing in Agentic Systems, RAG, and Context Engineering.</i></p>
 </div>
 
