@@ -1,29 +1,17 @@
-<div align="center">
-  <h1>Connor Bell</h1>
-  <h3>Senior Platform Engineer @ Optura.AI</h3>
-  <p><i>Specializing in Agentic Systems, RAG, and Context Engineering.</i></p>
-</div>
+# Connor Bell
 
----
+I’m a Senior AI Platform Engineer at Optura, where I co-lead the Knowledge Platform team. I led the first client deployment of Librarian and now build the context engine behind it. My part of the platform determines what an agent can retrieve, whose definition applies, and how to trace an answer back to its source.
 
-### 🔭 Current Focus
-I specialize in **Agentic Design Patterns**. I don't just prompt models; I build the state machines, memory persistence, and evaluations that make them reliable in enterprise environments.
+One question I keep coming back to is what happens when someone loses access to a source after an agent has already used it. You can check permissions on the next query. What about a cached answer, or a procedure the agent learned last week?
 
+## Writing
 
+**[The Warehouse Has a Column. It Doesn’t Have the Argument.](https://connorbell.dev/writing/the-warehouse-has-a-column)**  
+If operations says a claim takes ten minutes and the adjusters say twenty, which number should an agent use? I wrote about what a knowledge layer needs to preserve when the people who know the work disagree.
 
-### 🚀 Recent Work
+## Public projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **AgentFlow** | **AI Distribution Infra.** Solves auth, multi-tenancy, and access control for internal agents. | `TypeScript` `Next.js` `Postgres` |
-| **AsyncAgents** | **UX Architecture.** A pattern for decoupling tool execution from chat UI to prevent blocking. | `React` `AI SDK` `Redis` |
+- **[AgentFlow](https://github.com/connorbell133/Agentflow)** lets teams put an existing AI endpoint behind a shared chat interface. Group permissions control which agents each user can reach, and Postgres row-level security keeps each organization’s data separate.
+- **[Async agent example](https://github.com/connorbell133/async-agent-example)** shows how to keep a conversation going while a tool runs in the background. When the task finishes, its result goes back into the conversation. Built with TypeScript, Next.js, and the AI SDK.
 
-### 📝 Latest Writing
-* **Medium:** [The Hidden Bottleneck in AI Agents](link)
-* **LinkedIn:** [Why "Chat" isn't the final form of AI](link)
-
-### 💻 Tech & Tools
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-[Get in touch via LinkedIn](https://www.linkedin.com/in/connorbell13)
+[Personal site](https://connorbell.dev/) · [LinkedIn](https://www.linkedin.com/in/connorbell13/)
